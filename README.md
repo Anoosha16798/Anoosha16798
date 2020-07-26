@@ -9,4 +9,4 @@ I'm Anoosha!
 
 [![Anoosha's github stats](https://github-readme-stats.vercel.app/api?username=Anoosha16798&show_icons=true&theme=radical)](https://github.com/Anoosha16798/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anoosha16798&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anoosha16798&repo=github-readme-stats)](https://github.com/Anoosha16798/github-readme-stats)
