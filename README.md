@@ -7,4 +7,4 @@ I'm Anoosha!
 - 👯 I’m looking to collaborate for any web developement work, or data analytics work.
 -->
 
-[![Anoosha's github stats](https://github-readme-stats.vercel.app/api?username=Anoosha16798)](https://github.com/anuraghazra/github-readme-stats)
+[![Anoosha's github stats](https://github-readme-stats.vercel.app/api?username=Anoosha16798&show_icons=true&theme=radical)](https://github.com/Anoosha16798/github-readme-stats)
